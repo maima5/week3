@@ -1,0 +1,11 @@
+digraph L0 { labelloc=t; label="DFD Level 0 (Diagram Konteks) - Layanan *858#"; fontsize=14
+graph [rankdir=LR, fontname="Helvetica", nodesep=0.6, ranksep=0.9, pad=0.3]
+node [fontname="Helvetica", fontsize=11]
+edge [fontname="Helvetica", fontsize=9]
+P [label="0\nLayanan *858#", shape=ellipse, style=filled, fillcolor="#dbe9ff"]
+U [label="Pelanggan\n(Pengirim)", shape=box, style=filled, fillcolor="#f2f2f2"]
+S [label="SMS Gateway\n(penerus SMS ke\npengirim & penerima)", shape=box, style=filled, fillcolor="#f2f2f2"]
+U -> P [label="kode USSD, pilihan menu,\nnomor tujuan, nominal, konfirmasi"]
+P -> U [label="menu, prompt,\npesan error, hasil transaksi"]
+P -> S [label="notifikasi SMS"]
+}
