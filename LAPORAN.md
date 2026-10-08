@@ -1,12 +1,18 @@
 # Laporan Tugas Week #3 - ISP Service Analysis (*858#)
 
-Mata kuliah CAK3BAB3 - Fakultas Informatika, Telkom University
-Kelompok: 
-Husnul Khotimah         | 103012430019
-Raissa Putri Athaya     | 
-Surya Mirfattul Jannah  |
-Baliana Daniswara       |
+**Mata Kuliah:** CAK3BAB3  
+**Fakultas:** Informatika, Telkom University  
 
+### Kelompok
+
+| Nama | NIM |
+|---|---|
+| Husnul Khotimah | 103012430019 |
+| Raissa Putri Athaya | 103012400255 |
+| Baliana Daniswara | 103012400363 |
+| Surya Mirfattul Jannah | 103012400372 |
+
+---
 ## 1. Soal Segitiga (Exercise #1)
 
 Kode: `segitiga/segitiga_int.c` (input bilangan bulat) dan `segitiga/segitiga_pecahan.c` (pecahan, toleransi 1%).

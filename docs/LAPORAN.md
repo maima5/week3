@@ -1,7 +1,18 @@
 # Laporan Tugas Week #3 - ISP Service Analysis (*858#)
 
-Mata kuliah CAK3BAB3 - Fakultas Informatika, Telkom University
-Kelompok: _(isi nama dan NIM anggota)_
+**Mata Kuliah:** CAK3BAB3  
+**Fakultas:** Informatika, Telkom University  
+
+### Kelompok
+
+| Nama | NIM |
+|---|---|
+| Husnul Khotimah | 103012430019 |
+| Raissa Putri Athaya | 103012400255 |
+| Baliana Daniswara | 103012400363 |
+| Surya Mirfattul Jannah | 103012400372 |
+
+---
 
 ## 1. Soal Segitiga (Exercise #1)
 
